@@ -1,0 +1,6 @@
+streamlit
+elasticsearch==7.13.4
+opencv-python
+pytesseract
+ffmpeg
+moviepy
